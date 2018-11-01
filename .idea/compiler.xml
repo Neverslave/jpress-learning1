@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="codegen" />
+        <module name="jpress-commons" />
+        <module name="jpress-core" />
+        <module name="jpress-model" />
+        <module name="jpress-service-api" />
+        <module name="jpress-service-provider" />
+        <module name="jpress-template" />
+        <module name="jpress-web" />
+        <module name="module-article-model" />
+        <module name="module-article-service-api" />
+        <module name="module-article-service-provider" />
+        <module name="module-article-web" />
+        <module name="module-page-model" />
+        <module name="module-page-service-api" />
+        <module name="module-page-service-provider" />
+        <module name="module-page-web" />
+        <module name="starter" />
+        <module name="starter-tomcat" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="codegen" target="1.8" />
+      <module name="jpress-commons" target="1.8" />
+      <module name="jpress-core" target="1.8" />
+      <module name="jpress-model" target="1.8" />
+      <module name="jpress-service-api" target="1.8" />
+      <module name="jpress-service-provider" target="1.8" />
+      <module name="jpress-template" target="1.8" />
+      <module name="jpress-web" target="1.8" />
+      <module name="module-article" target="1.8" />
+      <module name="module-article-model" target="1.8" />
+      <module name="module-article-service-api" target="1.8" />
+      <module name="module-article-service-provider" target="1.8" />
+      <module name="module-article-web" target="1.8" />
+      <module name="module-page" target="1.8" />
+      <module name="module-page-model" target="1.8" />
+      <module name="module-page-service-api" target="1.8" />
+      <module name="module-page-service-provider" target="1.8" />
+      <module name="module-page-web" target="1.8" />
+      <module name="parent" target="1.8" />
+      <module name="starter" target="1.8" />
+      <module name="starter-tomcat" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="codegen" options="-parameters" />
+      <module name="jpress-commons" options="-parameters" />
+      <module name="jpress-core" options="-parameters" />
+      <module name="jpress-model" options="-parameters" />
+      <module name="jpress-service-api" options="-parameters" />
+      <module name="jpress-service-provider" options="-parameters" />
+      <module name="jpress-template" options="-parameters" />
+      <module name="jpress-web" options="-parameters" />
+      <module name="module-article" options="-parameters" />
+      <module name="module-article-model" options="-parameters" />
+      <module name="module-article-service-api" options="-parameters" />
+      <module name="module-article-service-provider" options="-parameters" />
+      <module name="module-article-web" options="-parameters" />
+      <module name="module-page" options="-parameters" />
+      <module name="module-page-model" options="-parameters" />
+      <module name="module-page-service-api" options="-parameters" />
+      <module name="module-page-service-provider" options="-parameters" />
+      <module name="module-page-web" options="-parameters" />
+      <module name="parent" options="-parameters" />
+      <module name="starter" options="-parameters" />
+      <module name="starter-tomcat" options="-parameters" />
+    </option>
+  </component>
+</project>

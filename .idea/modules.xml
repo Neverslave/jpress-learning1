@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/codegen/codegen.iml" filepath="$PROJECT_DIR$/codegen/codegen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpress-commons/jpress-commons.iml" filepath="$PROJECT_DIR$/jpress-commons/jpress-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpress-core/jpress-core.iml" filepath="$PROJECT_DIR$/jpress-core/jpress-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpress-model/jpress-model.iml" filepath="$PROJECT_DIR$/jpress-model/jpress-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpress-service-api/jpress-service-api.iml" filepath="$PROJECT_DIR$/jpress-service-api/jpress-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpress-service-provider/jpress-service-provider.iml" filepath="$PROJECT_DIR$/jpress-service-provider/jpress-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpress-template/jpress-template.iml" filepath="$PROJECT_DIR$/jpress-template/jpress-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpress-web/jpress-web.iml" filepath="$PROJECT_DIR$/jpress-web/jpress-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-article/module-article.iml" filepath="$PROJECT_DIR$/module-article/module-article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-article/module-article-model/module-article-model.iml" filepath="$PROJECT_DIR$/module-article/module-article-model/module-article-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-article/module-article-service-api/module-article-service-api.iml" filepath="$PROJECT_DIR$/module-article/module-article-service-api/module-article-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-article/module-article-service-provider/module-article-service-provider.iml" filepath="$PROJECT_DIR$/module-article/module-article-service-provider/module-article-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-article/module-article-web/module-article-web.iml" filepath="$PROJECT_DIR$/module-article/module-article-web/module-article-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-page/module-page.iml" filepath="$PROJECT_DIR$/module-page/module-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-page/module-page-model/module-page-model.iml" filepath="$PROJECT_DIR$/module-page/module-page-model/module-page-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-page/module-page-service-api/module-page-service-api.iml" filepath="$PROJECT_DIR$/module-page/module-page-service-api/module-page-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-page/module-page-service-provider/module-page-service-provider.iml" filepath="$PROJECT_DIR$/module-page/module-page-service-provider/module-page-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-page/module-page-web/module-page-web.iml" filepath="$PROJECT_DIR$/module-page/module-page-web/module-page-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starter/starter.iml" filepath="$PROJECT_DIR$/starter/starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starter-tomcat/starter-tomcat.iml" filepath="$PROJECT_DIR$/starter-tomcat/starter-tomcat.iml" />
+    </modules>
+  </component>
+</project>
